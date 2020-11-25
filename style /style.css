@@ -9,7 +9,7 @@
 }
 
 header {
-  background: url(/img/header.jpg), no-repeat;
+  background: url(../img/header.jpg), no-repeat;
   background-position: center;
   background-size: 100%;
   -webkit-box-shadow: 10px 20px 40px #33ccFF;
